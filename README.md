@@ -1,2 +1,2 @@
 # XInput-Receiver
-Simple example of how to implement controller support to your programs to be able to read controller inputs using XInput (Xbox controllers only)
+Using XInput (which is built-in to the Windows SDK) we can directly read controller inputs (for Xbox controllers) and correspond with that input as we please
